@@ -1,0 +1,11 @@
+Install and configure Nexus from scratch on a cloud server
+Created Ubuntu Server (Droplet)
+Open SSH port 22
+Install Java 8
+Download and Install Nexus
+Create "nexus" user and group
+
+Make Nexus owner of the folders
+Start with nexus user
+Open port 8081 with firewall
+Access from browser
